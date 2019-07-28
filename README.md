@@ -13,11 +13,11 @@ set XILINX = C:\Xilinx\14.7\ISE_DS\ISE
 
 set XILINX_EDK = C:\Xilinx\14.7\ISE_DS\EDK
 
-# usage
+# patch usage
 
 c:\Xilinx\patch.bat
 
-# revert
+# revert to original
 
 c:\Xilinx\revert.bat
 
