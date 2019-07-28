@@ -9,17 +9,9 @@ The patch scripts have to be executed in the Xilinx installation folder. The usa
 
 # usage
 
-cd c:\Xilinx
-
-c:
-
-patch.bat
+c:\Xilinx\patch.bat
 
 # revert
 
-cd c:\Xilinx
-
-c:
-
-revert.bat
+c:\Xilinx\revert.bat
 
