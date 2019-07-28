@@ -8,10 +8,16 @@ C:\Xilinx\14.7\ISE_DS\PlanAhead\bin\planAhead.bat -m32
 # usage
 
 cd c:\Xilinx
-c:patch.bat
+
+c:
+
+patch.bat
 
 # revert
 
 cd c:\Xilinx
-c:revert.bat
+
+c:
+
+revert.bat
 
