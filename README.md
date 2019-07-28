@@ -5,7 +5,7 @@ All ISE Design Tools will be patched by replacing the libPortability.dll with a 
 For PlanAhead 14.7 you still need to manually add '-m32' to the shortcut like so that the target becomes:
 C:\Xilinx\14.7\ISE_DS\PlanAhead\bin\planAhead.bat -m32
 
-The usage and revert assumes installation to c:\Xilinx folder. You can change that to your folder, if different.
+The patch scripts have to be executed in the Xilinx installation folder. The usage below assumes installation to C:\Xilinx folder. You can change that to your folder, if different.
 
 # usage
 
