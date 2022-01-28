@@ -56,7 +56,7 @@ check that the USB adapter LED turned ON
 disconnect all Xilinx USB cables from host computer\
 in a shell console, with root rights:\
 
-download install_drivers.tar.gz from xilinx.com: https://www.xilinx.com/member/forms/download/design-license.html?cid=103670
+download install_drivers.tar.gz from xilinx.com: https://www.xilinx.com/member/forms/download/design-license.html?cid=103670 \
 extract content of the downloaded archive file: `tar xzvf install_drivers.tar.gz`
 ```
 cd install_drivers
